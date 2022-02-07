@@ -1,9 +1,6 @@
-        h2 {
-            color: #FFEFD5;
-        }  
-        p {
-                color: #FFEFD5;
-        }
-        body {
-            background-color: #000000;
-        }
+       body {background-color: #000000;}
+h2 {color: #FFEFD5;}  
+        p {color: #FFEFD5;}
+        
+#nav-table {width: 800px;}
+
